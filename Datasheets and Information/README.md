@@ -1,8 +1,8 @@
-**IPEM ESP32 ATM90E32 ATM90E36 IoT Power Energy Monitor SDK**
+**IPEC ESP32 ATM90E32 IoT Power Energy Controller and Monitor SDK**
 
 ------------
 
-This folder contains applicable datasheets and IPEM design information.
+This folder contains applicable datasheets and IPEC design information.
 
 
 
