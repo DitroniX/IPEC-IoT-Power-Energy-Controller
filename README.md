@@ -2,7 +2,8 @@
 
 **IPEC** is an **IoT Power Energy Monitor and Controller.** 3 Phase, or 3 x Single Phase with DAC/PWM/MPPT/I2C Expansion Port Outputs
 
-New Product - Further details to follow
+**DitroniX.net Power Energy Monitor Boards SDK Overview**
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/08/DitroniX.net-Power-Energy-Monitor-Boards-SDK-Overview-scaled.jpg?raw=true)
 
 **IPEC Production - 3D Prototype Beta Board**
 
