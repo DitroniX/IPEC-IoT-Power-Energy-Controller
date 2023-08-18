@@ -2,6 +2,8 @@
 
 **IPEC** is an **IoT Power Energy Monitor and Controller.** 3 Phase, or 3 x Single Phase with DAC/PWM/MPPT/I2C Expansion Port Outputs
 
+**NEW FIRMWARE**: [**FliX**](https://github.com/DitroniX/FLIX-DitroniX-Power-Energy-Monitors-Firmware) is an Integrated Firmware for DitroniX Power Energy Monitor SDK Boards
+
 **IPEC Overview**
 ![IPEC](https://github.com/DitroniX/IPEC-IoT-Power-Energy-Controller/blob/main/Datasheets%20and%20Information/IPEC%20Power%20Energy%20Monitor%20Board%20Overview.jpg)
 
