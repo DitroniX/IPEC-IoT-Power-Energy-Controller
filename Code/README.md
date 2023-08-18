@@ -2,6 +2,8 @@
 
 ------------
 
+**NEW FIRMWARE**: [**FliX**](https://github.com/DitroniX/FLIX-DitroniX-Power-Energy-Monitors-Firmware) is an Integrated Firmware for DitroniX Power Energy Monitor SDK Boards
+
 This folder contains IPEC Example Source Code.
 
 
