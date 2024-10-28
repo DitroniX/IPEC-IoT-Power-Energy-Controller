@@ -86,7 +86,10 @@
 	 - Publish to ThingSpeak
 	 - Drive DAC for PWM / Voltage or MPPT Based on CT Readings
  - **Size** 70 mm x 53 mm
+## **Purchase**
+[![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
 
+Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
 
 ## **Further Information**
 
